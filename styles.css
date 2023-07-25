@@ -1,1 +1,56 @@
 /* Write your CSS here! */
+body {
+background-color:pink;
+font-size: 14pt;
+margin: 8px;
+padding: 0px;
+font-family: 'cambria';
+display: block;
+text-align: center;
+}
+
+h1 {
+    color:hotpink;
+    text-align: center;
+}
+
+header {
+    background-color: rgb(141, 3, 81);
+    height: auto;
+    padding: 5px;
+    margin: 0px;
+    font-size: 18pt;
+    text-align: center;
+    
+}
+
+p {
+    font-family: cambria;
+    text-align: center;
+    color: rgb(37, 3, 21);
+   
+}
+
+article {
+    width: 100%;
+    padding: 30px;
+    text-align: center;
+    color: aquamarine;
+}
+
+footer {
+    color:black;
+    text-align: center;
+    padding: 20px;
+    margin: 0px;
+    font-style:italic;
+}
+#mainHeading {
+    color: red;
+}
+
+#testP {
+    color: green;
+    font-size: 14pt;
+    font-style: cambria;
+}
